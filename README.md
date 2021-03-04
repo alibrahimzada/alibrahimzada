@@ -8,6 +8,7 @@ This is Ali. I love research, software engineering and solving problems.
 
 - 💻 I’m currently working on something very cool :wink:.
 - 🌱 I’m currently learning Bioinformatics.
+- :man_scientist: I'm interested in Machine Learning, Natural Language Processing, Science, Big Data, Software Engineering
 - :school: I’m in my Junior year! 
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@alibrahimzada](https://twitter.com/alibrahimzada)
