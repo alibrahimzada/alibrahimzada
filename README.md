@@ -1,7 +1,7 @@
 ## Hello Hello! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=alibrahimzada)
 
-This is Ali. I love research, coding and solving problems.
+This is Ali. I love research, software engineering and solving problems.
 
   
 **About Me:**
