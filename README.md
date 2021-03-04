@@ -1,16 +1,31 @@
-# 👋
+## Hello Hello! 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=alibrahimzada)
 
-<!--
-**alibrahimzada/alibrahimzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Ali. I love research, coding and solving problems.
 
-Here are some ideas to get you started:
+  
+**About Me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: alibrahimzada@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working on something very cool :wink:.
+- 🌱 I’m currently learning Bioinformatics.
+- :school: I’m in my Junior year! 
+- 💬 I would love to connect with different people and work on projects together!
+- 📫 How to reach me: [@alibrahimzada](https://twitter.com/alibrahimzada)
+- ⚡ Fun fact: I consistently invest in $cryptocurrencies
+
+
+### Languages And Tools I know 🌐
+
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+## My Profile in Numbers: 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alibrahimzada&count_private=true&show_icons=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibrahimzada&layout=compact&hide=CSS,html" />
+</a>
