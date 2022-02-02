@@ -8,7 +8,7 @@ This is Ali. I love research, software engineering and solving problems.
 
 - 💻 I’m currently working on something very cool :wink:.
 - :man_scientist: I'm interested in Machine Learning, Artificial Intelligence, Science, Big Data, Software Engineering
-- :school: I’m in my Junior year! 
+- :school: I’m in my Senior year! 
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@alibrahimzada](https://twitter.com/alibrahimzada)
 - ⚡ Fun fact: I consistently invest in $cryptocurrencies
