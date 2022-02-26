@@ -11,7 +11,6 @@ This is Ali. I love research, software engineering and solving problems.
 - :school: I’m in my Senior year! 
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@alibrahimzada](https://twitter.com/alibrahimzada)
-- ⚡ Fun fact: I consistently invest in $cryptocurrencies
 
 
 ### Languages And Tools I know 🌐
