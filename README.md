@@ -8,18 +8,9 @@ This is Ali. I love research, software engineering and solving problems.
 
 - 💻 I’m currently working on something very cool :wink:.
 - :man_scientist: I'm interested in Machine Learning, Artificial Intelligence, Science, Big Data, Software Engineering
-- :school: I’m in my Senior year! 
+- :school: I’m starting my PhD in Fall 2022! 
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@alibrahimzada](https://twitter.com/alibrahimzada)
-
-
-### Languages And Tools I know 🌐
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Find me on: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/alibrahimzada/)
